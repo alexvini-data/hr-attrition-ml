@@ -12,7 +12,7 @@ Desenvolvido como trabalho de conclusão da disciplina Data Science Experience �
 
 ## Estrutura do repositório
 - `notebooks/` — pipeline completo comentado
-- `images/` — visualizações geradas
+- `graficos/` — visualizações geradas
 
 ## Como executar
 1. Importe o notebook no Databricks Community Edition
